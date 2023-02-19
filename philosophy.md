@@ -41,7 +41,7 @@ Seneca
 ## Schedule
 
 ### __Early Greek Philosophy__ (_Jonathan Barnes_)
-* Reading 1 (Pages xxxvi - xxxiii, 3 - 47)
+* Reading 1 (Pages xxxvi - xxxviii, 3 - 47)
   * Part of synopsys
   * Precursors 
   * Thales 
